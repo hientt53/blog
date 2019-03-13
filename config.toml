@@ -6,6 +6,7 @@ theme = "cupper-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 disqusShortname = "yourdiscussshortname"
 
+
 [taxonomies]
   tag = "tags"
 
@@ -22,6 +23,7 @@ disqusShortname = "yourdiscussshortname"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"
+  fontHeader = 'Saira Semi Condensed'
 
 [menu]
   [[menu.nav]]
@@ -30,7 +32,7 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
   [[menu.nav]]
     name = "Blog"
-    url = "/post/"
+    url = "/posts/"
     weight = 2
   [[menu.nav]]
     name = "Tags"
