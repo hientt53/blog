@@ -1,4 +1,46 @@
-baseURL = "http://example.org/"
+baseURL = "https://tranhien.ooo"
 languageCode = "en-us"
-title = "A little bit of my life"
-theme = "base16"
+defaultContentLanguage = "en"
+title = "A littel bit of my life"
+theme = "cupper-hugo-theme"
+googleAnalytics = "UA-123456789-1"
+disqusShortname = "yourdiscussshortname"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "Mình coi đây như nơi để ghi chú những thứ hay ho trong quá trình mình học và làm :D"
+  homeMetaContent = "Mình coi đây như nơi để ghi chú những thứ hay ho trong quá trình mình học và làm :D"
+  footer = "A little bit of my life"
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+  codePenUser = "someUser"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Blog"
+    url = "/post/"
+    weight = 2
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
