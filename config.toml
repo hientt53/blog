@@ -17,13 +17,14 @@ disqusShortname = "yourdiscussshortname"
   quality = 99
 
 [params]
-  description = "Mình coi đây như nơi để ghi chú những thứ hay ho trong quá trình mình học và làm :D"
+  description = "CẢNH BÁO: Đây chỉ là nơi mình ghi lại những kiến thức mới, để để tổng hợp, xem lại khi cần, nhưng gì mình nghĩ cần ghi nhớ theo quan điểm riêng của mình, không mang tính hướng giới thiệu hay hướng dẫn hihi."
   homeMetaContent = "Mình coi đây như nơi để ghi chú những thứ hay ho trong quá trình mình học và làm :D"
   footer = "A little bit of my life"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"
   fontHeader = 'Saira Semi Condensed'
+
 
 [menu]
   [[menu.nav]]
