@@ -1,7 +1,6 @@
 +++
 categories = ["test"]
 date = "2019-09-19T09:20:49+00:00"
-draft = true
 tags = ["test"]
 title = "Test"
 
