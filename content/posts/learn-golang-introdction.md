@@ -27,3 +27,14 @@ Tương ứng mỗi lession mình sẽ viết một bài với mục đích ghi 
 Phần này mình sẽ cập nhật sau khi kết thúc khoá học trên hihi.
 {{% /blockquote %}}
 
+
+```go
+type Product struct {
+    Name string
+    Price float64
+}
+
+func (p *Product) GetPrice() float64{
+    return p.Price
+}
+```

@@ -1,4 +1,4 @@
-baseURL = "https://tranhien.ooo"
+baseURL = "https://pinkykitten.gitlab.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "A littel bit of my life"
@@ -9,6 +9,7 @@ disqusShortname = "yourdiscussshortname"
 
 [taxonomies]
   tag = "tags"
+  category = "categories"
 
 [permalinks]
   post = "/:filename/"
@@ -17,8 +18,7 @@ disqusShortname = "yourdiscussshortname"
   quality = 99
 
 [params]
-  description = "CẢNH BÁO: Đây chỉ là nơi mình ghi lại những kiến thức mới, để để tổng hợp, xem lại khi cần, nhưng gì mình nghĩ cần ghi nhớ theo quan điểm riêng của mình, không mang tính hướng giới thiệu hay hướng dẫn hihi."
-  homeMetaContent = "Mình coi đây như nơi để ghi chú những thứ hay ho trong quá trình mình học và làm :D"
+  description = "Mình tập tành viết blog nên ko biết giật tít le thế nào cả :D"
   footer = "A little bit of my life"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
@@ -35,6 +35,10 @@ disqusShortname = "yourdiscussshortname"
     name = "Blog"
     url = "/posts/"
     weight = 2
+  [[menu.nav]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
   [[menu.nav]]
     name = "Tags"
     url = "/tags/"
