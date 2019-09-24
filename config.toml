@@ -12,7 +12,7 @@ disqusShortname = "yourdiscussshortname"
   category = "categories"
 
 [permalinks]
-  post = "/:filename/"
+  posts = "/:filename/"
 
 [imaging]
   quality = 99
