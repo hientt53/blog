@@ -7,18 +7,18 @@ title = "Docker là gì và vì sao sử dụng docker."
 +++
 Để trả lời cho cầu hỏi  vì sao sử dụng docker, chúng ta hãy xem qua 2 cách cài đặt redis dưới đây: 
 
-Cách 1:  Cách thông thường ( theo tài liệu từ trang chủ của redis)
+Cách 1:  Cách thông thường ( theo tài liệu từ trang chủ của redis) các bước theo thứ tự sau: 
 
     wget http://download.redis.io/redis-stable.tar.gz
     tar xvzf redis-stable.tar.gz
     cd redis-stable
     make 
 
-Mình chạy lệnh đầu tiên 
+Khi mình chạy lệnh đầu tiên: 
 
      wget http://download.redis.io/redis-stable.tar.gz
 
-và nhận đông thông báo lỗi `wget command not found`, ồ vậy là `wget` command chưa được cài đặt, chúng ta sẽ tiến hành cài đặt `wget` bằng command 
+rật tiếc có lỗi xảy ra, và mình nhận đông thông báo lỗi `wget command not found`, ồ vậy là `wget` command chưa được cài đặt, chúng ta sẽ tiến hành cài đặt `wget` bằng lệnh 
 
     apt install wget
 
