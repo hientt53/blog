@@ -47,4 +47,4 @@ Vậy vấn đề ở đây là gì? Như chúng ta đã thấy ở trên, để
 
    Bước tiếp theo là tận hưởng thành quả, redis đã được cài thành công. Docker thật vi diệu phải không a :D
 
-![ten](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#RjZLBTsMwDIafJsdKTQNoXFcGSGgIqYchbqExTaakqbKUtjw9KXXaVdMkpBycz45j%2FzZhuemfHG%2Fk3grQJEtFT9gDyTJ6k2VkPKkYJrJhbAKVUwKDFlCoH0CYIm2VgNMq0FurvWrWsLR1DaVfMe6c7dZhX1avf214BRegKLm%2BpAclvMQubtOFP4OqZPyZpugxPAYjOEkubHeG2I6w3FnrJ8v0OehRvKjL9O7xincuzEHt%2F%2FPgPnn92Hya7eEleT%2B%2BHVVr9jzBLN9ct9gwFuuHqICzbS1gTJIStu2k8lA0vBy9XZh5YNIbHW40mJgOnIf%2Bap107j6sDVgD3g0hBB8whoLhxtB47xb9aRRVnml%2Fh4zjyKs59aJKMFCYeF0G8Oc7W2O2%2BwU%3D)
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAA9CAYAAACJM8YzAAAA9UlEQVR4Xu3TgQnAQAzDwGT/ob8USod4nTeQhHdmztjVBvaNfI7Ot1be3RH51rofl8iXB37xRBY5YCCA6MkiBwwEED1Z5ICBAKInixwwEED0ZJEDBgKInixywEAA0ZNFDhgIIHqyyAEDAURPFjlgIIDoySIHDAQQPVnkgIEAoieLHDAQQPRkkQMGAoieLHLAQADRk0UOGAggerLIAQMBRE8WOWAggOjJIgcMBBA9WeSAgQCiJ4scMBBA9GSRAwYCiJ4scsBAANGTRQ4YCCB6ssgBAwFETxY5YCCA6MkiBwwEED1Z5ICBAKInixwwEED8nxxgTSM+HkLuATxcAXQAAAAASUVORK5CYII=" />
