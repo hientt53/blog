@@ -47,4 +47,4 @@ Vậy vấn đề ở đây là gì? Như chúng ta đã thấy ở trên, để
 
    Bước tiếp theo là tận hưởng thành quả, redis đã được cài thành công. Docker thật vi diệu phải không a :D
    
-<iframe frameborder="0" style="width:100%;height:343px;" src="https://www.draw.io/?title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jx8o3671IrIslP8O7rsWwvTTeWa0IbVN%26export%3Ddownload"></iframe>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="271px" viewBox="-0.5 -0.5 271 251" style="max-width:100%;max-height:251px;"><defs/><g><rect x="0" y="0" width="270" height="250" fill="#ffffff" stroke="#000000" pointer-events="none"/><ellipse cx="145" cy="125" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="none"/></g></svg>
