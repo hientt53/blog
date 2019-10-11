@@ -47,4 +47,4 @@ Vậy vấn đề ở đây là gì? Như chúng ta đã thấy ở trên, để
 
    Bước tiếp theo là tận hưởng thành quả, redis đã được cài thành công. Docker thật vi diệu phải không a :D
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAA9CAYAAACJM8YzAAAA9UlEQVR4Xu3TgQnAQAzDwGT/ob8USod4nTeQhHdmztjVBvaNfI7Ot1be3RH51rofl8iXB37xRBY5YCCA6MkiBwwEED1Z5ICBAKInixwwEED0ZJEDBgKInixywEAA0ZNFDhgIIHqyyAEDAURPFjlgIIDoySIHDAQQPVnkgIEAoieLHDAQQPRkkQMGAoieLHLAQADRk0UOGAggerLIAQMBRE8WOWAggOjJIgcMBBA9WeSAgQCiJ4scMBBA9GSRAwYCiJ4scsBAANGTRQ4YCCB6ssgBAwFETxY5YCCA6MkiBwwEED1Z5ICBAKInixwwEED8nxxgTSM+HkLuATxcAXQAAAAASUVORK5CYII=" />
+<iframe frameborder="0" style="width:100%;height:193px;" src="https://www.draw.io/#G1jx8o3671IrIslP8O7rsWwvTTeWa0IbVN"></iframe>
