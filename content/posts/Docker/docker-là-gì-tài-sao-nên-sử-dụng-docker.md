@@ -46,3 +46,5 @@ Vậy vấn đề ở đây là gì? Như chúng ta đã thấy ở trên, để
        docker run -it redis 
 
    Bước tiếp theo là tận hưởng thành quả, redis đã được cài thành công. Docker thật vi diệu phải không a :D
+
+![ten](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#RjZLBTsMwDIafJsdKTQNoXFcGSGgIqYchbqExTaakqbKUtjw9KXXaVdMkpBycz45j%2FzZhuemfHG%2Fk3grQJEtFT9gDyTJ6k2VkPKkYJrJhbAKVUwKDFlCoH0CYIm2VgNMq0FurvWrWsLR1DaVfMe6c7dZhX1avf214BRegKLm%2BpAclvMQubtOFP4OqZPyZpugxPAYjOEkubHeG2I6w3FnrJ8v0OehRvKjL9O7xincuzEHt%2F%2FPgPnn92Hya7eEleT%2B%2BHVVr9jzBLN9ct9gwFuuHqICzbS1gTJIStu2k8lA0vBy9XZh5YNIbHW40mJgOnIf%2Bap107j6sDVgD3g0hBB8whoLhxtB47xb9aRRVnml%2Fh4zjyKs59aJKMFCYeF0G8Oc7W2O2%2BwU%3D)
