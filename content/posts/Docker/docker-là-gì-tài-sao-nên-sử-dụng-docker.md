@@ -47,4 +47,5 @@ Vậy vấn đề ở đây là gì? Như chúng ta đã thấy ở trên, để
 
    Bước tiếp theo là tận hưởng thành quả, redis đã được cài thành công. Docker thật vi diệu phải không a :D
    
-<iframe frameborder="0" style="width:100%;height:343px;" src="https://www.draw.io/?title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jx8o3671IrIslP8O7rsWwvTTeWa0IbVN%26export%3Ddownload"></iframe>
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1jx8o3671IrIslP8O7rsWwvTTeWa0IbVN&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://www.draw.io/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jx8o3671IrIslP8O7rsWwvTTeWa0IbVN%26export%3Ddownload"></script>
